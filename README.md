@@ -1,5 +1,5 @@
-**# MorphEase: Electrically Stimulated Morphine Tapering Device Simulation**
-# Overview
+# MorphEase: Electrically Stimulated Morphine Tapering Device Simulation
+**Overview**
 MorphEase is a Python-based simulation of a hypothetical implantable drug delivery system designed to assist patients in safely tapering off prescription opioids. The project models a control system that delivers morphine at fixed intervals using electrically stimulated hydrogel-based release mechanisms.
 
 **Motivation**
